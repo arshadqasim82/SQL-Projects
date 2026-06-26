@@ -123,25 +123,6 @@ Aggregates hiring activity by company, role and location for organisational repo
 
 ---
 
-## SQL Concepts Used
-
-This project includes practical use of:
-
-- CREATE TABLE
-- INSERT INTO
-- MERGE
-- JOINs
-- Common Table Expressions (CTEs)
-- CASE expressions
-- Aggregate functions
-- STRING_AGG
-- DATE_TRUNC
-- Window functions
-- Data type conversion
-- Schema management
-
----
-
 ## Engineering Practices
 
 The pipeline was designed with production-style practices in mind.
